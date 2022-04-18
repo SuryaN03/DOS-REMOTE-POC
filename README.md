@@ -40,8 +40,8 @@ This is a proof of concept for [CVE-2022-27254](https://cve.mitre.org/cgi-bin/cv
 ## Tools used: 
            
            •FCCID.io
-           •HackRF One
-           •Gqrx
+           •HackRF 1One
+           •Gqorx
            •GNURadio
 
 
